@@ -1,6 +1,8 @@
 # Pinia 購物車練習
 
-<img width="1430" alt="截圖 2023-03-13 下午2 55 33" src="/public/images/picture.png">
+<img width="1440" alt="picture" src="https://user-images.githubusercontent.com/108295892/225369263-3ef77ef0-e0de-44c4-af52-86d521eaa400.png">
+
+
 
 ## 目的
 
